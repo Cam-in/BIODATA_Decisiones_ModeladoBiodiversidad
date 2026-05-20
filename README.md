@@ -21,6 +21,7 @@ BIODATA es un grupo de la Universidad de Concepción, Chile reunido para dictar 
  * Guillaumot et al. (2018) Kernell Density: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.4091
  * Muscarella et al. (2014)  https://doi.org/10.1111/2041-210X.12261
  * Definiciones biotopo https://www.sciencedirect.com/topics/earth-and-planetary-sciences/biotope
+ * Whittaker et al. (1973) Nicho, hábitat, ecotopo https://www.journals.uchicago.edu/doi/abs/10.1086/282837?journalCode=an
 
 
 
