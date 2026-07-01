@@ -24,6 +24,13 @@ BIODATA es un grupo de la Universidad de Concepción, Chile reunido para dictar 
  * Whittaker et al. (1973) Nicho, hábitat, ecotopo https://www.journals.uchicago.edu/doi/abs/10.1086/282837?journalCode=an
  * Resumen Hutchinson F.J. Ferrer chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fjferrer.webs.ull.es/Apuntes05/Tema_1.pdf
 
+## Ejemplo de coordenadas utilizadas según las áreas:
+ * ESRI 102033 SAD 1969 Albert South America (América del Sur completa)
+ * EPSG 102020  WGS 1984 Lambert Azimuthek Eq Area South Pole (Antártida y América del Sur)
+ * EPSG 3035 (Polo y Europa)
+ * WGS 1984 UTM ZONE 21s EPSG 32721 (Islas Shetland del Sur 60° W-54° W; 80° S al Ecuador)
+ * WGS 1984 Antartic Polar Stereographic EPSG 3031 (Antártida y Frente Polar hasta 45° S arpox.)
+
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16929884.svg)](https://doi.org/10.5281/zenodo.16929884)
